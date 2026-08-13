@@ -1,5 +1,5 @@
 # Welcome 👋👋👋
-<img src=logo.png>
+<img src=logo.png width="200px" height="200px">
 <!--
 **Ahmed-Hany-2013/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
